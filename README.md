@@ -5,7 +5,7 @@ Software Developer | MERN Stack
 -------------------------------
 
 * 🌍  I'm based in Sydney Australia
-* 🖥️  See my portfolio at [My Portfolio](http://www.gyanusherchan.com)
+* 🖥️  See my portfolio at [My Portfolio](https://www.gyanusherchan.com/)
 * ✉️  You can contact me at [gyanusherchan@outlook.com](mailto:gyanusherchan@outlook.com)
 * 🧠  I'm learning Full Stack Web Development in MERN Stack
 
